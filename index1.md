@@ -17,4 +17,4 @@ I am ready to learn
 
 Jeannette er her også :)
 
-Is this working?
+Is this working? Paula
