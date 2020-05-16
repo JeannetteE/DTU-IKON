@@ -15,6 +15,11 @@ I am ready to learn
 1. Paula
 1. Falco
 
+
+Jeannette er her også :)
+
+Is this working? Paula
+=======
 Jeannette er her også :) og vil gerne linke tilbage til [program.md](program.md)
 og [DR](http://www.dr.dk) er også med
 
